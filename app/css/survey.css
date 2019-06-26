@@ -1,0 +1,29 @@
+    
+h1{
+    font-weight: bold;
+    font-size: 65px;
+}
+
+h2{
+    font-size: 45px;
+}
+
+#question1, #question2, #question3, #question4, #question5,
+#question6, #question7, #question8, #question9, #question10{
+    width: 150px;
+}
+
+#results-modal{
+    margin: 50px 0px 0px 0px;
+    text-align:center;
+    font-size: 65px;
+}
+
+#match-img{
+    width: 50%;
+    height: 50%;
+}
+
+#match-name{
+    font-size: 50px;
+}
